@@ -159,6 +159,7 @@ button {
     margin: auto;
     margin-bottom: 20px;
     margin-top: 20px;
+    left: 50%;
 }
 
 button:hover {
