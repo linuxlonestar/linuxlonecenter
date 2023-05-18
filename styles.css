@@ -4,7 +4,7 @@ img[alt="www.000webhost.com"]{display:none}
 
 .textstyle {
     text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Lucida Console", monospace;
     font-weight: normal;
 }
  body {
@@ -156,6 +156,9 @@ button {
     font-weight: bold;
     font-size: 14pt;
     outline: none;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 button:hover {
