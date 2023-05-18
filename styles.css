@@ -164,6 +164,11 @@ button {
     transform: translate(-50%);
 }
 
+.submissivebutton {
+    position: relative
+    top: 30px
+}
+
 button:hover {
     border: 1px #C6C6C6 solid;
     box-shadow: 1px 1px 1px #EAEAEA;
