@@ -150,7 +150,7 @@ button {
     color: #444444;
     background: #F3F3F3;
     border: 1px #DADADA solid;
-    padding: 5px 10px;
+    padding: 35px 40px;
     border-radius: 2px;
     font-weight: bold;
     font-size: 9pt;
@@ -229,16 +229,4 @@ button.red:active {
     background: -webkit-linear-gradient(top, #D74736, #AD2719);
     background: -moz-linear-gradient(top, #D74736, #AD2719);
     background: -ms-linear-gradient(top, #D74736, #AD2719);
-}
-
-
-
-/*=======================================*/
-
-body {
-    margin: 50px;
-}
-
-h1 {
-    font: 150%/150% 'Freckle Face', cursive;
 }
