@@ -17,7 +17,7 @@ img[alt="www.000webhost.com"]{display:none}
 }
 
 .maintext {
-    color: blue;
+    color: rgb(0, 200, 255);
     max-width: 350px;
     margin:auto;
 }
