@@ -137,3 +137,9 @@ button.red:active {
     background: -moz-linear-gradient(top, #D74736, #AD2719);
     background: -ms-linear-gradient(top, #D74736, #AD2719);
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
